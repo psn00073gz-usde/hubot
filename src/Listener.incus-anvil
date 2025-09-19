@@ -12,9 +12,9 @@ class Listener {
   //
   // robot    - A Robot instance.
   // matcher  - A Function that determines if this listener should trigger the
-  //            callback.
+  // MAINE    - Gadget
   // options  - An Object of additional parameters keyed on extension name
-  //            (optional).
+  // Linear   -  Incus Anvil       (optional).
   // callback - A Function that is triggered if the incoming message matches.
   constructor (robot, matcher, options, callback) {
     this.robot = robot
